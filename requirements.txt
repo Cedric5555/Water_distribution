@@ -1,0 +1,4 @@
+# Project dependencies
+
+# Testing framework
+pytest
